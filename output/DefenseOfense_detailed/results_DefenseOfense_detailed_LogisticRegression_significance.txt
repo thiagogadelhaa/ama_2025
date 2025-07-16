@@ -1,0 +1,8 @@
+Significance Tests using Bootstrap:
+Accuracy Significance (95% CI): ConfidenceInterval(low=0.2039069626026148, high=0.2105047126786257) - Significant
+F1 Significance (95% CI): ConfidenceInterval(low=0.19239813642287185, high=0.19855733167610792) - Significant
+Recall Significance (95% CI): ConfidenceInterval(low=0.20715417106652592, high=0.2153907074973601) - Significant
+Precision Significance (95% CI): ConfidenceInterval(low=0.1734215309089953, high=0.18005079100786253) - Significant
+Auroc Significance (95% CI): ConfidenceInterval(low=0.25132121763501414, high=0.2593825857357511) - Significant
+
+==================================================

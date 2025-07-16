@@ -1,0 +1,18 @@
+{
+    "model_type": "DefenseOfense_detailed",
+    "algorithm": "XGBoost",
+    "baseline": {
+        "accuracy": 0.6069169960474309,
+        "f1": 0.6961497570639874,
+        "recall": 0.7820221752903908,
+        "precision": 0.6273301047102015,
+        "auroc": 0.620177366367287
+    },
+    "enhanced": {
+        "accuracy": 0.8086044390392217,
+        "f1": 0.8365050048806232,
+        "recall": 0.8502639915522705,
+        "precision": 0.8232169164574078,
+        "auroc": 0.892050750720063
+    }
+}

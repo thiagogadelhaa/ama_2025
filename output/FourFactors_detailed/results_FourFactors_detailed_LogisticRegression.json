@@ -1,0 +1,18 @@
+{
+    "model_type": "FourFactors_detailed",
+    "algorithm": "LogisticRegression",
+    "baseline": {
+        "accuracy": 0.5883247187595015,
+        "f1": 0.6107368929105046,
+        "recall": 0.5609028511087646,
+        "precision": 0.6704608708027162,
+        "auroc": 0.6259059452033018
+    },
+    "enhanced": {
+        "accuracy": 0.8055640012161751,
+        "f1": 0.8276711822469259,
+        "recall": 0.8108500527983106,
+        "precision": 0.8452824241004425,
+        "auroc": 0.8890528285890552
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "model_type": "DefenseOfense_detailed",
+    "algorithm": "LogisticRegression",
+    "baseline": {
+        "accuracy": 0.5960322286409243,
+        "f1": 0.6301192679749656,
+        "recall": 0.597624076029567,
+        "precision": 0.6664678422343283,
+        "auroc": 0.6325924348915458
+    },
+    "enhanced": {
+        "accuracy": 0.8034508969291579,
+        "f1": 0.8257487932641844,
+        "recall": 0.8087909186906019,
+        "precision": 0.8434718409044717,
+        "auroc": 0.8881385473084216
+    }
+}

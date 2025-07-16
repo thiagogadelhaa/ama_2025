@@ -1,0 +1,18 @@
+{
+    "model_type": "FourFactors_detailed",
+    "algorithm": "NaiveBayes",
+    "baseline": {
+        "accuracy": 0.4637427789601703,
+        "f1": 0.20495514759587716,
+        "recall": 0.120168954593453,
+        "precision": 0.7006140696874874,
+        "auroc": 0.5747866115596129
+    },
+    "enhanced": {
+        "accuracy": 0.5008969291577988,
+        "f1": 0.25205179266528877,
+        "recall": 0.1470960929250264,
+        "precision": 0.9094515322299126,
+        "auroc": 0.8621536411910087
+    }
+}
